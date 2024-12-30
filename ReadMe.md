@@ -1,4 +1,4 @@
-# Problem Solutions
+# Problem Description
 
 This repository contains C++ solutions to a set of
 computational problems related to algorithms and 
