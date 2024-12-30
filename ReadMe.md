@@ -5,7 +5,8 @@ computational problems related to algorithms and
 data structures.
 
 ## Part 1: Dynamic Programming
-## Question 1:  Minimal Difference in Coin Division
+
+### Question 1:  Minimal Difference in Coin Division
 ### Description
 Determine the most fair division of coins between two people by minimizing the difference between their respective totals.
 #### Input
