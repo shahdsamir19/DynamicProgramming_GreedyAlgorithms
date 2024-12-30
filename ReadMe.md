@@ -4,25 +4,6 @@ This repository contains C++ solutions to a set of
 computational problems related to algorithms and 
 data structures.
 
-## Table of Contents
-### Part 1: Dynamic Programming
-1. [Question 1:  Minimal Difference in Coin Division](#Question 1:Minimal Difference in Coin Division)
-2. [Question 2: Original String Possibilities](#Question 2:Original String Possibilities)
-3. [Question 3: Minimum CPU Intervals](#Question 3:Maximum Value Stolen)
-4. [Question 4: Treasure Diving](#Question 4:Treasure Diving)
-5. [Question 5: Longest Increasing Subsequence](#Question 5:Longest Increasing Subsequence)
-
----
-
-### Part 2: Greedy Algorithms and MST
-1. [Question 1: Maximize Content Children](#Question 1:Maximize Content Children)
-2. [Question 2: Minimum CPU Intervals](#Question 2:Minimum CPU Intervals)
-3. [Question 3: Valid Path in Graph](#Question 3:Valid Path in Graph)
-4. [Question 4: Minimal Cost of Safe Roads](#Question 4:Minimal Cost of Safe Roads)
-5. [Question 5: Minimum Distance Sum in Binary](#Question 5:Minimum Distance Sum in Binary)
-
----
-
 ## Part 1: Dynamic Programming
 ## Question 1:  Minimal Difference in Coin Division
 ### Description
